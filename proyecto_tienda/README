@@ -66,3 +66,14 @@ INSERT INTO producto_categoria (id_producto, id_categoria) VALUES
 (1,1),
 (2,2),
 (3,3);
+
+
+--inicio de sesion
+git config --global user.name "itscandelas"
+git config --global user.email "itscandelas@outlook.com"
+--clonar repositorio
+git clone 
+--guardar todo de golpe
+git add .
+--comentar el guardado
+git commit -m ""
